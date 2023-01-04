@@ -1,0 +1,3 @@
+com\gorest\testbase\TestBase.class
+com\gorest\userinfo\UserCURDTestWithSteps.class
+com\gorest\postsinfo\PostsCURDTestWithSteps.class
